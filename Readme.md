@@ -91,10 +91,6 @@ You can extend the application by adding more functionalities, integrating addit
 
 Contributions are welcome! Feel free to fork this project and submit your enhancements through pull requests.
 
-## Acknowledgments
-
-- Contributor 1
-- Contributor 2
 
 ## License
 
